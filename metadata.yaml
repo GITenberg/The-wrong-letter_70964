@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '80'
     url: http://www.gutenberg.org/2009/agents/80
     wikipedia: https://en.wikipedia.org/wiki/G._K._Chesterton
+covers:
+- cover_type: archival
+  image_path: 70964-h/images/cover.jpg
 creator:
   author:
     agent_name: Masterman, Walter S. (Walter Sidney)
@@ -20,6 +23,8 @@ creator:
     gutenberg_agent_id: '56012'
     url: http://www.gutenberg.org/2009/agents/56012
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70964#The-wrong-letter
 gutenberg_issued: '2023-06-12'
 identifiers:
   gutenberg: '70964'
